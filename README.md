@@ -1,16 +1,4 @@
-# smart-expense-tracker# 💰 Expense Tracker with AI Budgeting
 
-A Streamlit app where you log daily expenses and income, view spending charts and
-category totals, and get AI-generated budgeting suggestions from Google Gemini Flash.
-
-## Features
-- Add income and expenses (date, category, amount, note)
-- Summary metrics: income, expenses, balance, savings rate
-- Charts: spending by category, income vs expenses per month, daily spending
-- Category totals table with percentages and a date-range filter
-- Gemini summary of spending patterns + budgeting suggestions
-- CSV download/upload so you can keep your data
-- Privacy: only aggregated totals are sent to Gemini, never your notes
 
 ## Run locally
 ```bash
